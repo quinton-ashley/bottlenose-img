@@ -1,6 +1,6 @@
 # bottlenose-img
 
-An image database of open game boxes, memory cards, and system safety/promotional manuals for the emulator frontend app, [Bottlenose](https://github.com/quinton-ashley/bottlenose)
+An image database of open game boxes, memory cards, and system safety/promotional manuals for use in the open box menus of the emulator frontend app, [Bottlenose](https://github.com/quinton-ashley/bottlenose).
 
 | sys     | %    | details     |
 | ------- | ---- | ----------- |
