@@ -1,6 +1,8 @@
-# bottlenose-img : An image database of open game boxes, memory cards, and system safety/promotional manuals.
+# bottlenose-img
 
-| sys     | prog | details     |
+An image database of open game boxes, memory cards, and system safety/promotional manuals.
+
+| sys     | %    | details     |
 | ------- | ---- | ----------- |
 | 3ds     | 0%   | no progress |
 | ds      | 100% | complete    |
@@ -10,7 +12,7 @@
 | switch  | 0%   | no progress |
 | wii     | 50%  | box         |
 | wiiu    | 0%   | no progress |
-| xbox360 | 0%   | box         |
+| xbox360 | 50%  | box         |
 
 I have no 3ds, ps2, ps3, switch, or wiiu game boxes, manuals, memory cards, etc. and will not be able to make the open box menu support these system on my own without these assets.  Please help me if you can!  You can just send photos or help edit them too.  Before contributing to this repo please take a look at the assets I did as examples.
 
