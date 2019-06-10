@@ -30,9 +30,20 @@ If the item is highly reflective, you can try taking two pictures on a tripod an
 
 Simply add a transparency layer and erase the background.
 
+![](https://raw.githubusercontent.com/quinton-ashley/bottlenose-img/master/gcn/_TEMPLATE/img/manual0.png)
+
 ## Open Game Boxes
 
 To get the edges of the game box to be artificially straight I used photoshop's perspective warp tool.  Place rectangles over each section of the box, you can then warp those points to sit perfectly straight with the edges of the image.
+
+
+![ds open box](https://raw.githubusercontent.com/quinton-ashley/bottlenose-img/master/ds/_TEMPLATE/img/boxOpen.png)
+
+## Open Game Box Mask
+
+Cut out clips and slots that should appear in front of game media and manuals.
+
+![ds open box mask](https://raw.githubusercontent.com/quinton-ashley/bottlenose-img/master/ds/_TEMPLATE/img/boxOpenMask.png)
 
 ## Highly Reflective Items
 
