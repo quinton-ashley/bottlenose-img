@@ -36,7 +36,6 @@ Simply add a transparency layer and erase the background.
 
 To get the edges of the game box to be artificially straight I used photoshop's perspective warp tool.  Place rectangles over each section of the box, you can then warp those points to sit perfectly straight with the edges of the image.
 
-
 ![ds open box](https://raw.githubusercontent.com/quinton-ashley/bottlenose-img/master/ds/_TEMPLATE/img/boxOpen.png)
 
 ## Open Game Box Mask
@@ -60,3 +59,15 @@ One of the goals of the Bottlenose emulator front end project is to create a phy
 # Submissions
 
 Please send me <mailto:qashto@gmail.com> your original photos in lossless quality (.dng) and if you made edits, send me the photoshop/gimp files via google docs, dropbox, etc.
+
+# Public Domain License CC0
+
+The photos in this repository are public domain.  Any photos submitted to me for use in this repository will be public domain.  Do not submit photos to this repository if you wish to reserve your copyrights to the photos you submit.
+
+## Legal Disclaimer
+
+Although [Emulation is legal](https://en.wikipedia.org/wiki/Bleem!), pirating games you do not own is illegal.  Bottlenose does not condone piracy.  Bottlenose is open source software that does not infringe on any copyrights of texture packers, developers, or publishers.  Bottlenose is not affiliated with Nintendo, Sony, or Microsoft.  Anyone asking for or sharing information related to digital piracy on this project's Github issues will have their comments removed and flagged.
+
+## COPYRIGHT AND TRADEMARK INFO
+
+MAME and the MAME Logo are Copyright © 1997-2019 MAMEDev and contributors. MAME® is a registered trademark of Gregory Ember. Use of the MAME name and logo is done so with the expressed written permission from the trademark owner. For more information, please visit <https://www.mamedev.org>.
