@@ -14,7 +14,7 @@ Want to contribute to the open box menu of Bottlenose (a frontend for emulators)
 | wiiu    | 0%   | all               |
 | xbox360 | 100% |                   |
 
-I have no 3ds, ps2, ps3, switch, or wiiu game boxes, manuals, memory cards, etc. and will not be able to make the open box menu support these system on my own without these assets.  Game collectors, please help me out here!  You can just send photos and I'll edit them.  I've put instructions on how I've been editing them if you want to do it yourself though. Before contributing to this repo please take a look at the assets I did as examples.
+I have no 3ds, ps3, switch, or wiiu game boxes, manuals, memory cards, etc. and will not be able to make the open box menu support these system on my own without these assets.  Game collectors, please help me out here!  You can just send photos and I'll edit them.  I've put instructions on how I've been editing them if you want to do it yourself though. Before contributing to this repo please take a look at the assets I did as examples.
 
 # Taking Photos
 
