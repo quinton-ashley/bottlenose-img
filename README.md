@@ -38,25 +38,25 @@ If the item is highly reflective, you can try taking two pictures on a tripod an
 
 Simply add a transparency layer and erase the background.
 
-![ds system manual](https://raw.githubusercontent.com/quinton-ashley/nostlan-img/master/ds/_TEMPLATE/img/manual0.png)
+![ds system manual](https://raw.githubusercontent.com/quinton-ashley/nostlan-img/master/ds/_TEMPLATE_ds/manual.png)
 
 ## Open Game Boxes
 
 To get the edges of the game box to be artificially straight I used photoshop's perspective warp tool. Place rectangles over each section of the box, you can then warp those points to sit perfectly straight with the edges of the image.
 
-![ds open box](https://raw.githubusercontent.com/quinton-ashley/nostlan-img/master/ds/_TEMPLATE/img/boxOpen.png)
+![ds open box](https://raw.githubusercontent.com/quinton-ashley/nostlan-img/master/ds/_TEMPLATE_ds/boxOpen.png)
 
 ## Open Game Box Mask
 
 Cut out clips and slots that should appear in front of game media and manuals.
 
-![ds open box mask](https://raw.githubusercontent.com/quinton-ashley/nostlan-img/master/ds/_TEMPLATE/img/boxOpenMask.png)
+![ds open box mask](https://raw.githubusercontent.com/quinton-ashley/nostlan-img/master/ds/_TEMPLATE_ds/boxOpenMask.png)
 
 ## Highly Reflective Items
 
 Align the two images you took so that they match perfectly. Cross-fade between the sides with no reflections. The result should look seamless.
 
-![ttyd disc](https://raw.githubusercontent.com/quinton-ashley/nostlan-gcn/master/gcn/G8ME01/img/disc.png)
+![ttyd disc](https://raw.githubusercontent.com/quinton-ashley/nostlan-wii/master/wii/G8ME01/disc.png)
 
 # Submissions
 
